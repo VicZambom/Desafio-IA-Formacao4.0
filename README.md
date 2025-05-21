@@ -52,7 +52,18 @@ Arquivo: `modelagem.ipynb`
 
 ---
 
-## 🧪 Etapa 3: Uso do Modelo com Script Python
+## 🔗 Acesso Público à Interface Gráfica
+
+Para facilitar a demonstração do projeto, foi gerado um link temporário utilizando a funcionalidade `share=True` da biblioteca Gradio. Esse link permite o acesso à interface gráfica de predição sem necessidade de instalação local do projeto.
+
+🔍 **Link para acesso público:** [https://59d7ea283d16b0d5be.gradio.live](https://59d7ea283d16b0d5be.gradio.live)  
+⏳ **Disponibilidade:** O link ficará acessível por aproximadamente **1 semana**.
+
+Essa interface permite inserir os dados de entrada do modelo e visualizar a predição diretamente pelo navegador.
+
+---
+
+## 🧪 Uso do Modelo com Script Python
 
 Arquivo: `usar_modelo.py`
 
